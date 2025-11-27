@@ -7,10 +7,6 @@
     { "id": 1, "name": "iPhone 15", "price": 8999 },
     { "id": 2, "name": "MacBook Pro", "price": 14999 }
   ],
-  "orders": [
-    { "id": 1, "userId": 1, "productId": 2, "status": "shipped" },
-    { "id": 2, "userId": 2, "productId": 1, "status": "processing" }
-  ],
   "messages": [
     { "id": 1, "fromUserId": 1, "toUserId": 2, "content": "Hi Bob!" },
     { "id": 2, "fromUserId": 2, "toUserId": 1, "content": "Hello Alice!" }
