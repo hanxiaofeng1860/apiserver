@@ -1,15 +1,7 @@
 {
   "users": [
-    { "id": 1, "username": "alice", "email": "alice@example.com" },
-    { "id": 2, "username": "bob", "email": "bob@example.com" }
-  ],
-  "products": [
-    { "id": 1, "name": "iPhone 15", "price": 8999 },
-    { "id": 2, "name": "MacBook Pro", "price": 14999 }
-  ],
-  "messages": [
-    { "id": 1, "fromUserId": 1, "toUserId": 2, "content": "Hi Bob!" },
-    { "id": 2, "fromUserId": 2, "toUserId": 1, "content": "Hello Alice!" }
+    { "id": 1, "username": "张三", "email": "alice@example.com" },
+    { "id": 2, "username": "测试", "email": "bob@example.com" }
   ],
   "videos": [
     {
