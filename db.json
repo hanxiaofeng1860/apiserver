@@ -13,21 +13,6 @@
       "id": 2,
       "title": "西瓜视频 Demo",
       "url": "https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-360p.mp4"
-    },
-    {
-      "id": 3,
-      "title": "大兔子",
-      "url": "http://www.w3school.com.cn/example/html5/mov_bbb.mp4"
-    },
-    {
-      "id": 4,
-      "title": "大灰熊",
-      "url": "https://www.w3schools.com/html/movie.mp4"
-    },
-    {
-      "id": 5,
-      "title": "冰川",
-      "url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
     }
   ],
   "profile": {
